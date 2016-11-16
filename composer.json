@@ -1,8 +1,6 @@
 {
     "name": "chayakornc/tmtopup",
     "autoload": {
-        "psr-4" : {
-            "AES\\" : "src/"
-        }
+        "files": ["src/AES.php"]
     }
 }
